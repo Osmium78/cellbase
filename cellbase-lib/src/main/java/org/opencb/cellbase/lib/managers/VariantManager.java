@@ -24,7 +24,7 @@ import org.opencb.biodata.models.variant.avro.SampleEntry;
 import org.opencb.biodata.models.variant.avro.Score;
 import org.opencb.biodata.models.variant.avro.VariantAnnotation;
 import org.opencb.biodata.models.variant.avro.VariantType;
-import org.opencb.cellbase.core.api.core.CellBaseCoreDBAdaptor;
+import org.opencb.cellbase.lib.impl.core.CellBaseCoreDBAdaptor;
 import org.opencb.cellbase.core.api.core.VariantDBAdaptor;
 import org.opencb.cellbase.core.api.queries.QueryException;
 import org.opencb.cellbase.core.api.queries.VariantQuery;

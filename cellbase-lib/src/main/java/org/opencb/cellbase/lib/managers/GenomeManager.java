@@ -22,7 +22,7 @@ import org.opencb.biodata.models.core.GenomeSequenceFeature;
 import org.opencb.biodata.models.core.GenomicScoreRegion;
 import org.opencb.biodata.models.core.Region;
 import org.opencb.biodata.models.variant.avro.Cytoband;
-import org.opencb.cellbase.core.api.core.CellBaseCoreDBAdaptor;
+import org.opencb.cellbase.lib.impl.core.CellBaseCoreDBAdaptor;
 import org.opencb.cellbase.core.api.core.GenomeDBAdaptor;
 import org.opencb.cellbase.core.api.queries.GenomeQuery;
 import org.opencb.cellbase.core.config.CellBaseConfiguration;

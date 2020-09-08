@@ -19,7 +19,7 @@ package org.opencb.cellbase.lib.managers;
 import org.opencb.biodata.models.core.Gene;
 import org.opencb.biodata.models.core.GenomeSequenceFeature;
 import org.opencb.biodata.models.core.Region;
-import org.opencb.cellbase.core.api.core.CellBaseCoreDBAdaptor;
+import org.opencb.cellbase.lib.impl.core.CellBaseCoreDBAdaptor;
 import org.opencb.cellbase.core.api.queries.GeneQuery;
 import org.opencb.cellbase.core.config.CellBaseConfiguration;
 import org.opencb.cellbase.core.result.CellBaseDataResult;
